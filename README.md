@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aeonik
 - 👀 I’m interested in radio, security, data.
-- 🌱 I’m currently learning Python, Clojure, parsers and compilers.
+- 🌱 I’m currently learning Python, Clojure, parsers, and compilers.
 - 💞️ I’m looking to collaborate on GNU Radio
 - 📫 How to reach me aeonik.chaos at gmail.com
 
